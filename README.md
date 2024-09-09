@@ -2,3 +2,5 @@
 
 
  A Calculator for processing basic mathematical operations using C language.
+
+![AltText](output.png)
